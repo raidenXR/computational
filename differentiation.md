@@ -25,10 +25,5 @@ $$
 
 ### Second Derivative
 $$
-\frac {d^2f(x)} {dx^2} \approx \frac { f'(x+ \frac h 2) - f'(x - \frac h 2)} {h}
-\\
-~
-\\
-\approx \frac {f(x+h) - f(x-h) - 2f(x)} {h^2}
-
+\frac {d^2f(x)} {dx^2} \approx \frac { f'(x+ \frac h 2) - f'(x - \frac h 2)} {h} \\ ~ \\ \approx \frac {f(x+h) - f(x-h) - 2f(x)} {h^2}
 $$
